@@ -4,6 +4,10 @@ In online advertising, click-through rate (CTR) is a very important metric for e
 
 ![](img/banner_ctr.jpg)
 
+Machine learning (ML) pipelines consist of several steps to train a model and this is great visualisation of typical pipeline:
+![logo](https://cdn-images-1.medium.com/max/2000/1*2T5rbjOBGVFdSvtlhCqlNg.png)
+        A standard machine learning pipeline (source: Practical Machine Learning with Python, Apress/Springer)
+
 # Methods
 This study consists of 8 processes. The details are described follows;
 
